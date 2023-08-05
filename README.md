@@ -37,12 +37,13 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Movie cards created dinamically with JavaScript using information fetched from an API]**
+- **[Movie cards created dynamically with JavaScript using information fetched from an API]**
 - **[Each movie has a like button that you can click to add more likes to that movie]**
 - **[A popup menu for every movie, that displays information about it]**
 - **[A comment section on the popup menu, where you can see all the comments and post a new comment]**
 - **[A counter for the number of movies that the page has available]**
 - **[A counter for the number of comments posted on every movie]**
+- **[Pair-programming]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
